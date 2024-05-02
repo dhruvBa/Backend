@@ -1,0 +1,81 @@
+[
+    {
+        "name": "iPhone",
+        "price": 134,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "iPhone 1",
+        "price": 143,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "iPhone 2",
+        "price": 1434,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iPhone 3",
+        "price": 1034,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iPhone 4",
+        "price": 1534,
+        "feature": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iPhone 5",
+        "price": 1634,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iPhone 6",
+        "price": 7,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iPhone 7",
+        "price": 1834,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iPhone 8",
+        "price": 9,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iPhone 9",
+        "price": 14,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "iPhone 10",
+        "price":34,
+        "feature": true,
+        "company": "mi"
+    },
+    {
+        "name": "iPhone 11",
+        "price": 13,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "iPhone 12",
+        "price": 1540,
+        "feature": true,
+        "company": "mi"
+    }
+    
+]
